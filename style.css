@@ -1,0 +1,32 @@
+*{
+  margin:0;
+  padding:0
+}
+
+body{
+  font-family: sans-serif;
+  padding:25px 10px
+}
+
+.head{
+  width:93.5%;
+  height: 50px;
+  text-align: center;
+}
+
+.box{
+  display:inline-block;
+  width:18%;
+  height:150px;
+  margin:15px;
+  padding:20px;
+  border:4px solid black;
+  text-align: center;
+}
+
+.bottom{
+  width:93.5%;
+  height: 200px;
+  border:4px solid black;
+  margin:15px;
+}
